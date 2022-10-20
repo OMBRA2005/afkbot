@@ -1,0 +1,9 @@
+{
+	"ip":"Terra_Delle_Carote.aternos.me",
+	"port": 28261,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (banana) (banana)",
+	"login-cmd":"/login (banana)"
+}
